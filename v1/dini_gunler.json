@@ -1,0 +1,400 @@
+[
+ {
+  "key": "uc-aylar-regaib",
+  "match": "regaib|üç ayların",
+  "title": "Üç Aylar ve Regaib Kandili",
+  "onemi": [
+   "Recep, Şaban ve Ramazan aylarına \"üç aylar\" denir. Müslümanlar bu aylarda ibadet ve taatlerini artırarak Ramazan'a manen hazırlanır.",
+   "Regaib Kandili, Recep ayının ilk cuma gecesidir. \"Regaib\", \"çok arzu edilen, değerli ihsan ve bağışlar\" anlamına gelir; Allah'ın rahmet ve bağışının umulduğu bir gece olarak ihya edilir."
+  ],
+  "ibadetler": [
+   "Kaza ve nafile namaz kılmak",
+   "Kur'an-ı Kerim okumak ve dinlemek",
+   "Tövbe ve istiğfar etmek, dua etmek",
+   "Peygamber Efendimiz'e salavat getirmek",
+   "Sadaka vermek, akraba ve komşuları gözetmek",
+   "Kandil gününe denk gelen perşembe veya cuma oruç tutmak"
+  ],
+  "ayetler": [
+   {
+    "arapca": "وَإِذَا سَأَلَكَ عِبَادِى عَنِّى فَإِنِّى قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ ٱلدَّاعِ إِذَا دَعَانِ ۖ فَلْيَسْتَجِيبُوا۟ لِى وَلْيُؤْمِنُوا۟ بِى لَعَلَّهُمْ يَرْشُدُونَ",
+    "meal": "Kullarım sana Beni sorarlarsa, bilsinler ki Ben, şüphesiz onlara yakınım. Benden isteyenin, dua ettiğinde duasını kabul ederim. Artık onlar da davetimi kabul edip Bana inansınlar ki doğru yolda yürüyenlerden olsunlar.",
+    "kaynak": "Bakara Sûresi, 2/186"
+   }
+  ],
+  "hadisler": [
+   {
+    "text": "Allah'ım! Recep ve Şaban'ı hakkımızda mübarek kıl ve bizi Ramazan'a ulaştır.",
+    "kaynak": "Ahmed b. Hanbel, Müsned; Beyhakî, Şuabü'l-îmân"
+   }
+  ],
+  "risale": [
+   {
+    "text": "Evvela: Sizin, bu mübarek şuhur-u selâse ve içindeki kıymettar leyali-i mübarekeleri tebrik ediyoruz. Cenab-ı Hak, her bir geceyi sizin hakkınızda birer Leyle-i Regaib ve Leyle-i Kadir kıymetinde size sevap versin, âmin!",
+    "kaynak": "Kastamonu Lâhikası, Kastamonu Lâhikası s.70-91"
+   },
+   {
+    "text": "Sair vakitte on ise şuhur-u selâsede yüze ve bine çıkar.",
+    "kaynak": "Şuâlar, On Dördüncü Şuâ"
+   }
+  ]
+ },
+ {
+  "key": "mirac",
+  "match": "miraç|mi'raç|mirac",
+  "title": "Miraç Kandili",
+  "onemi": [
+   "Recep ayının 27. gecesidir. Peygamber Efendimiz'in Mescid-i Haram'dan Mescid-i Aksâ'ya götürüldüğü (İsrâ) ve oradan göklere yükseltildiği (Miraç) mucizevi yolculuğun hatırasıdır.",
+   "Beş vakit namaz bu gecede farz kılınmış; Bakara Sûresi'nin son iki âyeti ve şirk koşmayanların bağışlanacağı müjdesi bu gecede ümmete hediye edilmiştir."
+  ],
+  "ibadetler": [
+   "Namazların ehemmiyetini düşünmek; kaza ve nafile namaz kılmak",
+   "Bakara Sûresi'nin son iki âyetini (Âmenerrasûlü) okumak",
+   "Kur'an okumak, tesbih ve dua etmek",
+   "Salavat getirmek"
+  ],
+  "ayetler": [
+   {
+    "arapca": "سُبْحَٰنَ ٱلَّذِىٓ أَسْرَىٰ بِعَبْدِهِۦ لَيْلًۭا مِّنَ ٱلْمَسْجِدِ ٱلْحَرَامِ إِلَى ٱلْمَسْجِدِ ٱلْأَقْصَا ٱلَّذِى بَٰرَكْنَا حَوْلَهُۥ لِنُرِيَهُۥ مِنْ ءَايَٰتِنَآ ۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ",
+    "meal": "Kulunu (Muhammed'i) bir gece Mescidi Haram'dan (Mekke'den), kendisine bir kısım ayetlerimizi göstermek için, çevresini mübarek kıldığımız Mescidi Aksa'ya (Kudüs'e) götüren Allah'ın şanı yücedir. Doğrusu O, işitir ve görür.",
+    "kaynak": "İsrâ Sûresi, 17/1"
+   },
+   {
+    "arapca": "مَا زَاغَ ٱلْبَصَرُ وَمَا طَغَىٰ لَقَدْ رَأَىٰ مِنْ ءَايَٰتِ رَبِّهِ ٱلْكُبْرَىٰٓ",
+    "meal": "Gözü oradan ne kaydı ve ne de onu aştı. And olsun ki Rabbinin varlığının büyük delillerini gördü.",
+    "kaynak": "Necm Sûresi, 53/17-18"
+   }
+  ],
+  "hadisler": [
+   {
+    "text": "(Allah Teâlâ buyurdu ki:) Onlar beştir, (sevapta) ellidir. Benim katımda söz değiştirilmez.",
+    "kaynak": "Buhârî, Salât, 1"
+   }
+  ],
+  "risale": [
+   {
+    "text": "Leyle-i Mi’rac, ikinci bir Leyle-i Kadir hükmündedir. Bu gece mümkün oldukça çalışmakla kazanç birden bine çıkar.",
+    "kaynak": "Şuâlar, On Dördüncü Şuâ"
+   }
+  ]
+ },
+ {
+  "key": "berat",
+  "match": "berat",
+  "title": "Berat Kandili",
+  "onemi": [
+   "Şaban ayının 15. gecesidir. \"Berat\", kurtuluş ve beraat anlamına gelir; günahlardan arınma ve affedilme ümidiyle ihya edilir.",
+   "Bazı müfessirler Duhân Sûresi'ndeki \"mübarek gece\"yi bu gece olarak yorumlamış; bu gecede bir yıllık işlerin takdir edildiği rivayet edilmiştir."
+  ],
+  "ibadetler": [
+   "Tövbe ve istiğfar etmek; kul hakkı varsa helalleşmek",
+   "Kaza ve nafile namaz kılmak",
+   "Kur'an okumak, özellikle Yâsin ve Duhân sûrelerini okumak",
+   "Dua etmek, salavat getirmek",
+   "Ertesi gün oruç tutmak"
+  ],
+  "ayetler": [
+   {
+    "arapca": "إِنَّآ أَنزَلْنَٰهُ فِى لَيْلَةٍۢ مُّبَٰرَكَةٍ ۚ إِنَّا كُنَّا مُنذِرِينَ فِيهَا يُفْرَقُ كُلُّ أَمْرٍ حَكِيمٍ",
+    "meal": "Apaçık olan Kitap'a and olsun ki, Biz onu, kutlu bir gecede indirdik. Doğrusu Biz, insanları uyarmaktayız. Katımızdan bir buyrukla, her hikmetli işe o gecede hükmedilir. Doğrusu Biz öteden beri peygamberler göndermekteyiz. Eğer kesin olarak inanırsanız bilin ki, bu senin Rabbinden, göklerin, yerin ve ikisi arasında bulunanların Rabbinden bir rahmettir. O, işitendir, bilendir.",
+    "kaynak": "Duhân Sûresi, 44/3-4"
+   }
+  ],
+  "hadisler": [
+   {
+    "text": "Şaban'ın on beşinci gecesi olunca, gecesini ibadetle, gündüzünü oruçla geçirin.",
+    "kaynak": "İbn Mâce, İkâmetü's-salât, 191"
+   }
+  ],
+  "risale": [
+   {
+    "text": "Bu gelen gece olan Leyle-i Berat, bütün senede bir kudsî çekirdek hükmünde ve mukadderat-ı beşeriyenin programı nevinden olması cihetiyle Leyle-i Kadrin kudsiyetindedir. Her bir hasenenin Leyle-i Kadirde otuz bin olduğu gibi bu Leyle-i Beratta her bir amel-i salihin ve her bir harf-i Kur’an’ın sevabı yirmi bine çıkar.",
+    "kaynak": "Şuâlar, On Dördüncü Şuâ"
+   },
+   {
+    "text": "Bu geceler, elli senelik bir ibadet hükmüne geçebilir. Onun için elden geldiği kadar Kur’an’la ve istiğfar ve salavatla meşgul olmak büyük bir kârdır.",
+    "kaynak": "Şuâlar, On Dördüncü Şuâ"
+   }
+  ]
+ },
+ {
+  "key": "ramazan",
+  "match": "ramazan ayı başlangıcı",
+  "title": "Ramazan-ı Şerif",
+  "onemi": [
+   "Kur'an-ı Kerim'in indirilmeye başlandığı, orucun farz kılındığı ve içinde bin aydan hayırlı Kadir Gecesi'nin bulunduğu mübarek aydır.",
+   "Oruç; nefsi terbiye, nimetin kıymetini bilmek, sabır ve şükür için bir okuldur."
+  ],
+  "ibadetler": [
+   "Ramazan orucunu tutmak",
+   "Teravih namazı kılmak",
+   "Mukabele okumak veya dinlemek; hatim yapmak",
+   "Sahur ve iftarı sünnete uygun yapmak; iftar ettirmek",
+   "Zekât ve fıtır sadakasını vermek",
+   "Son on günde itikâfa girmek ve Kadir Gecesi'ni aramak"
+  ],
+  "ayetler": [
+   {
+    "arapca": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُتِبَ عَلَيْكُمُ ٱلصِّيَامُ كَمَا كُتِبَ عَلَى ٱلَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ",
+    "meal": "Ey İnananlar! Oruç, sizden öncekilere farz kılındığı gibi, Allah'a karşı gelmekten sakınasınız diye, size sayılı günlerde farz kılındı. İçinizden hasta olan veya yolculukta bulunan, tutamadığı günlerin sayısınca diğer günlerde tutar. Oruca dayanamıyanlar, bir düşkünü doyuracak kadar fidye verir. Kim gönülden iyilik yaparsa o iyilik kendisinedir. Oruç tutmanız eğer bilirseniz sizin için hayırlıdır.",
+    "kaynak": "Bakara Sûresi, 2/183"
+   },
+   {
+    "arapca": "شَهْرُ رَمَضَانَ ٱلَّذِىٓ أُنزِلَ فِيهِ ٱلْقُرْءَانُ هُدًۭى لِّلنَّاسِ وَبَيِّنَٰتٍۢ مِّنَ ٱلْهُدَىٰ وَٱلْفُرْقَانِ ۚ فَمَن شَهِدَ مِنكُمُ ٱلشَّهْرَ فَلْيَصُمْهُ ۖ وَمَن كَانَ مَرِيضًا أَوْ عَلَىٰ سَفَرٍۢ فَعِدَّةٌۭ مِّنْ أَيَّامٍ أُخَرَ ۗ يُرِيدُ ٱللَّهُ بِكُمُ ٱلْيُسْرَ وَلَا يُرِيدُ بِكُمُ ٱلْعُسْرَ وَلِتُكْمِلُوا۟ ٱلْعِدَّةَ وَلِتُكَبِّرُوا۟ ٱللَّهَ عَلَىٰ مَا هَدَىٰكُمْ وَلَعَلَّكُمْ تَشْكُرُونَ",
+    "meal": "Ramazan ayı, ki onda Kuran, insanlara yol gösterici ve doğruyu yanlıştan ayırıcı belgeler olarak indirildi. Sizden bu ayı idrak eden, onda oruç tutsun; hasta veya yolculukta olan, tutamadığı günlerin sayısınca diğer günlerde tutsun. Allah size kolaylık ister, zorluk istemez. Bu kolaylıkları, sayıyı tamamlamanız ve size yol gösterdiğine karşılık O'nu ululamanız için meşru kılmıştır; ola ki şükredersiniz.",
+    "kaynak": "Bakara Sûresi, 2/185"
+   }
+  ],
+  "hadisler": [
+   {
+    "text": "Kim inanarak ve karşılığını Allah'tan umarak Ramazan orucunu tutarsa geçmiş günahları bağışlanır.",
+    "kaynak": "Buhârî, Îmân, 28"
+   }
+  ],
+  "risale": [
+   {
+    "text": "İşte ramazan-ı şerif âdeta bir âhiret ticareti için gayet kârlı bir meşher, bir pazardır.",
+    "kaynak": "Mektubat, Yirmi Dokuzuncu Mektup"
+   },
+   {
+    "text": "Evet bir tek ramazan, seksen sene bir ömür semeratını kazandırabilir.",
+    "kaynak": "Mektubat, Yirmi Dokuzuncu Mektup"
+   },
+   {
+    "text": "Demek, beşerin musibetini ikileştiren sabırsızlığın ve tahammülsüzlüğün bir ilacı da oruçtur.",
+    "kaynak": "Mektubat, Yirmi Dokuzuncu Mektup"
+   }
+  ]
+ },
+ {
+  "key": "kadir",
+  "match": "kadir gecesi",
+  "title": "Kadir Gecesi",
+  "onemi": [
+   "Kur'an-ı Kerim'in indirilmeye başlandığı, Kur'an'ın ifadesiyle \"bin aydan hayırlı\" olan gecedir. Ramazan'ın son on gününde, özellikle tek gecelerinde aranması tavsiye edilmiş; ülkemizde 27. gece ihya edilir.",
+   "Meleklerin ve Ruh'un (Cebrâil) indiği, tan yeri ağarıncaya kadar esenlik olan bir gecedir."
+  ],
+  "ibadetler": [
+   "Geceyi namaz, Kur'an ve zikirle ihya etmek",
+   "Tövbe ve istiğfar etmek",
+   "\"Allah'ım! Sen affedicisin, affetmeyi seversin; beni affet\" diye dua etmek",
+   "Kaza ve nafile namaz kılmak, sadaka vermek"
+  ],
+  "ayetler": [
+   {
+    "arapca": "إِنَّآ أَنزَلْنَٰهُ فِى لَيْلَةِ ٱلْقَدْرِ وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ لَيْلَةُ ٱلْقَدْرِ خَيْرٌۭ مِّنْ أَلْفِ شَهْرٍۢ تَنَزَّلُ ٱلْمَلَٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍۢ سَلَٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ",
+    "meal": "Doğrusu, Biz, Kuran'ı kadir gecesinde indirmişizdir. Kadir gecesinin ne olduğunu sen bilir misin? Kadir gecesi bin aydan hayırlıdır. Melekler ve Cebrail o gecede Rablerinin izniyle her türlü iş için inerler. O gece, tan yerinin ağarmasına kadar bir esenliktir.",
+    "kaynak": "Kadr Sûresi, 97/1-5"
+   }
+  ],
+  "hadisler": [
+   {
+    "text": "Kim faziletine inanarak ve karşılığını Allah'tan umarak Kadir gecesini ibadetle geçirirse geçmiş günahları bağışlanır.",
+    "kaynak": "Buhârî, Îmân, 25"
+   }
+  ],
+  "risale": [
+   {
+    "text": "Evet bir tek ramazan, seksen sene bir ömür semeratını kazandırabilir. Leyle-i Kadir ise nass-ı Kur’an ile bin aydan daha hayırlı olduğu bu sırra bir hüccet-i kātıadır.",
+    "kaynak": "Mektubat, Yirmi Dokuzuncu Mektup"
+   },
+   {
+    "text": "Ramazan-ı şerifte sevab-ı a’mal, bire bindir.",
+    "kaynak": "Mektubat, Yirmi Dokuzuncu Mektup"
+   }
+  ]
+ },
+ {
+  "key": "arefe",
+  "match": "arefe",
+  "title": "Arefe",
+  "onemi": [
+   "Bayramdan önceki gündür. Kurban Bayramı arefesi (Zilhicce'nin 9'u) hacıların Arafat'ta vakfeye durduğu, dinin kemale erdiğini bildiren âyetin indiği gündür.",
+   "Kurban Bayramı arefesinin sabah namazından itibaren teşrik tekbirleri başlar."
+  ],
+  "ibadetler": [
+   "Kurban arefesinde oruç tutmak",
+   "Sabah namazından başlayarak farz namazlardan sonra teşrik tekbiri getirmek (Kurban arefesi)",
+   "Dua etmek, İhlâs Sûresi'ni çokça okumak",
+   "Kabir ziyareti yapmak, bayrama hazırlanmak"
+  ],
+  "ayetler": [
+   {
+    "arapca": "۞ وَٱذْكُرُوا۟ ٱللَّهَ فِىٓ أَيَّامٍۢ مَّعْدُودَٰتٍۢ ۚ فَمَن تَعَجَّلَ فِى يَوْمَيْنِ فَلَآ إِثْمَ عَلَيْهِ وَمَن تَأَخَّرَ فَلَآ إِثْمَ عَلَيْهِ ۚ لِمَنِ ٱتَّقَىٰ ۗ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّكُمْ إِلَيْهِ تُحْشَرُونَ",
+    "meal": "Allah'ı sayılı günlerde anın. Günahtan sakınan kimseye, acele edip, Mina'daki ibadeti iki günde bitirirse günah yoktur, geri kalsa da günah yoktur. Allah'tan sakının. O'nun katında toplanacağınızı bilin.",
+    "kaynak": "Bakara Sûresi, 2/203"
+   }
+  ],
+  "hadisler": [
+   {
+    "text": "Arefe günü tutulan orucun, önceki ve sonraki birer yılın günahlarına kefaret olmasını Allah'tan umarım.",
+    "kaynak": "Müslim, Sıyâm, 196"
+   }
+  ],
+  "risale": [
+   {
+    "text": "Sure-i İhlas’ı arefe gününde yüzer defa tekrar edip okuyordum.",
+    "kaynak": "Mektubat, Yirmi Altıncı Mektup"
+   }
+  ]
+ },
+ {
+  "key": "ramazan-bayrami",
+  "match": "ramazan bayramı \\d",
+  "title": "Ramazan Bayramı",
+  "onemi": [
+   "Ramazan orucunu tamamlamanın şükrü ve sevincidir. Şevval ayının ilk üç günüdür.",
+   "Küslerin barıştığı, büyüklerin ziyaret edildiği, yoksulların sevindirildiği günlerdir."
+  ],
+  "ibadetler": [
+   "Bayram namazını kılmak",
+   "Fıtır sadakasını bayram namazından önce vermek",
+   "Anne-baba, akraba ve büyükleri ziyaret etmek; küslerle barışmak",
+   "Yetim, yoksul ve kimsesizleri sevindirmek",
+   "Kabir ziyareti yapmak"
+  ],
+  "ayetler": [
+   {
+    "arapca": "قَدْ أَفْلَحَ مَن تَزَكَّىٰ وَذَكَرَ ٱسْمَ رَبِّهِۦ فَصَلَّىٰ",
+    "meal": "Arınmış olan, Rabbinin adını anıp namaz kılan, saadete erişecektir. Arınmış olan, Rabbinin adını anıp namaz kılan, saadete erişecektir.",
+    "kaynak": "A'lâ Sûresi, 87/14-15"
+   }
+  ],
+  "hadisler": [
+   {
+    "text": "Her milletin bir bayramı vardır; bu da bizim bayramımızdır.",
+    "kaynak": "Buhârî, Îdeyn, 3"
+   }
+  ],
+  "risale": []
+ },
+ {
+  "key": "kurban-bayrami",
+  "match": "kurban bayramı \\d",
+  "title": "Kurban Bayramı",
+  "onemi": [
+   "Zilhicce ayının 10, 11, 12 ve 13. günleridir. Hz. İbrahim'in teslimiyetini hatırlatan ve Allah'a yakınlaşma vesilesi olan kurban ibadetinin günleridir.",
+   "Hac ibadetinin de en önemli günlerini içine alır."
+  ],
+  "ibadetler": [
+   "Bayram namazını kılmak",
+   "Gücü yetenin kurban kesmesi; etini paylaşmak",
+   "Teşrik tekbirlerine devam etmek (bayramın 4. günü ikindi namazına kadar)",
+   "Akraba ve büyükleri ziyaret etmek, küslerle barışmak"
+  ],
+  "ayetler": [
+   {
+    "arapca": "إِنَّآ أَعْطَيْنَٰكَ ٱلْكَوْثَرَ فَصَلِّ لِرَبِّكَ وَٱنْحَرْ إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ",
+    "meal": "Doğrusu sana pek çok nimet vermişizdir. Öyleyse Rabbin için namaz kıl, kurban kes. Doğrusu adı sanı ortadan kalkacak olan, sana kin tutan kimsedir.",
+    "kaynak": "Kevser Sûresi, 108/1-3"
+   },
+   {
+    "arapca": "لَن يَنَالَ ٱللَّهَ لُحُومُهَا وَلَا دِمَآؤُهَا وَلَٰكِن يَنَالُهُ ٱلتَّقْوَىٰ مِنكُمْ ۚ كَذَٰلِكَ سَخَّرَهَا لَكُمْ لِتُكَبِّرُوا۟ ٱللَّهَ عَلَىٰ مَا هَدَىٰكُمْ ۗ وَبَشِّرِ ٱلْمُحْسِنِينَ",
+    "meal": "Bu hayvanların ne etleri ve ne de kanları Allah'a ulaşacaktır. Allah'a ulaşacak olan ancak sizin O'nun için yaptığınız gösterişten uzak amel ve ibadettir. Size doğru yolu gösterdiğinden, Allah'ı yüceltmeniz için onları böylece sizin buyruğunuza vermiştir. İyilik yapanlara müjde et.",
+    "kaynak": "Hac Sûresi, 22/37"
+   }
+  ],
+  "hadisler": [
+   {
+    "text": "Kurban bayramı günü Âdemoğlu'nun Allah katında en sevimli ameli kurban kesmektir.",
+    "kaynak": "Tirmizî, Edâhî, 1"
+   }
+  ],
+  "risale": []
+ },
+ {
+  "key": "hicri-yilbasi",
+  "match": "hicri yılbaşı",
+  "title": "Hicrî Yılbaşı",
+  "onemi": [
+   "Muharrem ayının ilk günüdür. Hicrî takvim, Peygamber Efendimiz'in Mekke'den Medine'ye hicretini başlangıç kabul eder.",
+   "Yeni yıl; geçen ömrün muhasebesi ve kalan ömür için hayırlı niyetler vesilesidir."
+  ],
+  "ibadetler": [
+   "Geçen yılın muhasebesini yapmak, tövbe etmek",
+   "Muharrem ayında oruç tutmak",
+   "Hicretin ibretlerini düşünmek, dua etmek"
+  ],
+  "ayetler": [
+   {
+    "arapca": "إِنَّ عِدَّةَ ٱلشُّهُورِ عِندَ ٱللَّهِ ٱثْنَا عَشَرَ شَهْرًۭا فِى كِتَٰبِ ٱللَّهِ يَوْمَ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ مِنْهَآ أَرْبَعَةٌ حُرُمٌۭ ۚ ذَٰلِكَ ٱلدِّينُ ٱلْقَيِّمُ ۚ فَلَا تَظْلِمُوا۟ فِيهِنَّ أَنفُسَكُمْ ۚ وَقَٰتِلُوا۟ ٱلْمُشْرِكِينَ كَآفَّةًۭ كَمَا يُقَٰتِلُونَكُمْ كَآفَّةًۭ ۚ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ مَعَ ٱلْمُتَّقِينَ",
+    "meal": "Allah'ın gökleri ve yeri yarattığı günkü yazısında, Allah'a göre ayların sayısı onikidir. Bunlardan dördü hürmetli aydır. Bu dosdoğru bir nizamdır. Öyleyse o aylar içinde kendinize yazık etmeyin, topyekun sizinle savaşan putperestlerle siz de topyekun savaşın, Allah'ın sakınanlarla beraber olduğunu bilin.",
+    "kaynak": "Tevbe Sûresi, 9/36"
+   }
+  ],
+  "hadisler": [
+   {
+    "text": "Ramazan'dan sonra en faziletli oruç, Allah'ın ayı Muharrem'de tutulan oruçtur.",
+    "kaynak": "Müslim, Sıyâm, 202"
+   }
+  ],
+  "risale": []
+ },
+ {
+  "key": "asure",
+  "match": "aşure",
+  "title": "Aşure Günü",
+  "onemi": [
+   "Muharrem ayının onuncu günüdür. Hz. Musa ve kavminin Firavun'dan kurtuluşu gibi pek çok hadisenin hatırasını taşır; Hz. Hüseyin'in Kerbela'da şehit edildiği gündür.",
+   "Anadolu'da aşure pişirip komşularla paylaşmak güzel bir gelenektir."
+  ],
+  "ibadetler": [
+   "Aşure orucunu tutmak (bir gün önce veya sonrasıyla birlikte)",
+   "Aşure pişirip paylaşmak; komşuluk ve kardeşliği pekiştirmek",
+   "Sadaka vermek, dua etmek"
+  ],
+  "ayetler": [
+   {
+    "arapca": "يَٰبَنِىٓ إِسْرَٰٓءِيلَ قَدْ أَنجَيْنَٰكُم مِّنْ عَدُوِّكُمْ وَوَٰعَدْنَٰكُمْ جَانِبَ ٱلطُّورِ ٱلْأَيْمَنَ وَنَزَّلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ",
+    "meal": "Ey İsrailoğulları! Sizleri düşmanınızdan kurtardık, Tur'un sağ yanını size vadettik ve üzerinize kudret helvasıyla bıldırcın indirdik.",
+    "kaynak": "Tâhâ Sûresi, 20/80"
+   }
+  ],
+  "hadisler": [
+   {
+    "text": "Aşure günü tutulan orucun, önceki bir yılın günahlarına kefaret olmasını Allah'tan umarım.",
+    "kaynak": "Müslim, Sıyâm, 196"
+   }
+  ],
+  "risale": []
+ },
+ {
+  "key": "mevlid",
+  "match": "mevlid",
+  "title": "Mevlid Kandili",
+  "onemi": [
+   "Rebîülevvel ayının 12. gecesidir. Âlemlere rahmet olarak gönderilen Peygamber Efendimiz'in dünyaya teşrif ettiği gecedir.",
+   "Onun hayatını, ahlâkını ve sünnetini hatırlamak ve yaşamak için bir vesiledir."
+  ],
+  "ibadetler": [
+   "Salavat getirmek",
+   "Peygamber Efendimiz'in hayatını (siyer) okumak",
+   "Mevlid okumak veya dinlemek",
+   "Kaza ve nafile namaz kılmak, Kur'an okumak, dua etmek"
+  ],
+  "ayetler": [
+   {
+    "arapca": "وَمَآ أَرْسَلْنَٰكَ إِلَّا رَحْمَةًۭ لِّلْعَٰلَمِينَ",
+    "meal": "Biz seni ancak alemlere rahmet olarak gönderdik.",
+    "kaynak": "Enbiyâ Sûresi, 21/107"
+   },
+   {
+    "arapca": "إِنَّ ٱللَّهَ وَمَلَٰٓئِكَتَهُۥ يُصَلُّونَ عَلَى ٱلنَّبِىِّ ۚ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ صَلُّوا۟ عَلَيْهِ وَسَلِّمُوا۟ تَسْلِيمًا",
+    "meal": "Şüphesiz Allah ve melekleri Peygamberi överler: Ey inananlar! Siz de onu övün, ona salat ve selam getirin.",
+    "kaynak": "Ahzâb Sûresi, 33/56"
+   }
+  ],
+  "hadisler": [
+   {
+    "text": "(Pazartesi orucu sorulunca:) O gün doğduğum gündür; o gün bana (ilk) vahiy indirildi.",
+    "kaynak": "Müslim, Sıyâm, 197"
+   }
+  ],
+  "risale": [
+   {
+    "text": "Beşinci Nükte: Mevlid-i Nebevî ile Mi’raciye’nin okunması, gayet nâfi’ ve güzel âdettir ve müstahsen bir âdet-i İslâmiyedir.",
+    "kaynak": "Mektubat, Yirmi Dördüncü Mektup"
+   }
+  ]
+ }
+]
