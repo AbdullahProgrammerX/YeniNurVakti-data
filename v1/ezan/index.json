@@ -1,0 +1,95 @@
+{
+ "surum": 1,
+ "okuyanlar": [
+  {
+   "id": "gunesdogdu",
+   "ad": "Hafız M. Özcan Güneşdoğdu",
+   "aciklama": "Beş vakit, Türk makamlarıyla",
+   "grup": "turk",
+   "vakitler": {
+    "imsak": {
+     "dosya": "gunesdogdu/2-sabah-ezani.mp3",
+     "boyut": 2178598,
+     "makam": "Saba"
+    },
+    "ogle": {
+     "dosya": "gunesdogdu/3-oglen-ezani.mp3",
+     "boyut": 1904200,
+     "makam": "Uşşak"
+    },
+    "ikindi": {
+     "dosya": "gunesdogdu/4-ikindi-ezani.mp3",
+     "boyut": 1626048,
+     "makam": "Rast"
+    },
+    "aksam": {
+     "dosya": "gunesdogdu/5-aksam-ezani.mp3",
+     "boyut": 812908,
+     "makam": "Segâh"
+    },
+    "yatsi": {
+     "dosya": "gunesdogdu/6-yatsi-ezani.mp3",
+     "boyut": 1889362,
+     "makam": "Hicaz"
+    }
+   }
+  },
+  {
+   "id": "cosar",
+   "ad": "Hafız İsmail Coşar",
+   "aciklama": "Beş vakit, Türk makamlarıyla",
+   "grup": "turk",
+   "vakitler": {
+    "imsak": {
+     "dosya": "cosar/sabah_ismail_cosar.mp3",
+     "boyut": 2492028,
+     "makam": "Saba"
+    },
+    "ogle": {
+     "dosya": "cosar/ogle_ismail_cosar.mp3",
+     "boyut": 1535733,
+     "makam": "Uşşak"
+    },
+    "ikindi": {
+     "dosya": "cosar/ikindi_ismail_cosar.mp3",
+     "boyut": 2072816,
+     "makam": "Rast"
+    },
+    "aksam": {
+     "dosya": "cosar/aksam_ismail_cosar.mp3",
+     "boyut": 1280574,
+     "makam": "Segâh"
+    },
+    "yatsi": {
+     "dosya": "cosar/yatsi_ismail_cosar.mp3",
+     "boyut": 2633506,
+     "makam": "Hicaz"
+    }
+   }
+  },
+  {
+   "id": "molla",
+   "ad": "Şeyh Ali Ahmed Molla",
+   "aciklama": "Mescid-i Harâm müezzini",
+   "grup": "harem",
+   "vakitler": {
+    "ogle": {
+     "dosya": "molla/sheikh_ali_bin_ahmed_mullah.mp3",
+     "boyut": 1511446
+    },
+    "ikindi": {
+     "dosya": "molla/sheikh_ali_bin_ahmed_mullah.mp3",
+     "boyut": 1511446
+    },
+    "aksam": {
+     "dosya": "molla/sheikh_ali_bin_ahmed_mullah.mp3",
+     "boyut": 1511446
+    },
+    "yatsi": {
+     "dosya": "molla/sheikh_ali_bin_ahmed_mullah.mp3",
+     "boyut": 1511446
+    }
+   }
+  }
+ ]
+}
