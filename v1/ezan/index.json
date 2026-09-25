@@ -66,30 +66,6 @@
      "makam": "Hicaz"
     }
    }
-  },
-  {
-   "id": "molla",
-   "ad": "Şeyh Ali Ahmed Molla",
-   "aciklama": "Mescid-i Harâm müezzini",
-   "grup": "harem",
-   "vakitler": {
-    "ogle": {
-     "dosya": "molla/sheikh_ali_bin_ahmed_mullah.mp3",
-     "boyut": 1511446
-    },
-    "ikindi": {
-     "dosya": "molla/sheikh_ali_bin_ahmed_mullah.mp3",
-     "boyut": 1511446
-    },
-    "aksam": {
-     "dosya": "molla/sheikh_ali_bin_ahmed_mullah.mp3",
-     "boyut": 1511446
-    },
-    "yatsi": {
-     "dosya": "molla/sheikh_ali_bin_ahmed_mullah.mp3",
-     "boyut": 1511446
-    }
-   }
   }
  ]
 }
